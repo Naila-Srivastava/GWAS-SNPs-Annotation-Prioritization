@@ -58,6 +58,12 @@ The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization
 * Top genes associated with asthma
 * Genes associated with the most frequent KEGG Pathways
 
+## Results
+
+1. IL13, IL4, IL4R, IL2RA, ORMDL3, GSDMB, ZPBP2, IKZF3, KIF3A, SMAD3, TLR1, RORA, RUNX3, LRRC32, C11orf30/EMSY, RAD50, TNFSF4 etc. have been found to have strong associations with Asthma.
+2. Majority of the genes are enriched in pathways, like- Systemic Lupus Erythematosus, JAK-STAT Signalling Pathway and Hematopoietic cell lineage.
+3. The selected SNPs are 'intronic' and 'intergenic' in nature.
+
 ## Key Takeaways
 
 - Successfully implemented a bioinformatics pipeline to prioritize asthma SNPs.
