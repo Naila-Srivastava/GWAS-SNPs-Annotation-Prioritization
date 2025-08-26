@@ -2,7 +2,12 @@
 
 ## Overview
 
-Genome-wide association studies (GWAS) have identified numerous single nucleotide polymorphisms (SNPs) associated with complex diseases such as asthma. However, not all SNPs are functionally relevant. This project implements a reproducible pipeline to filter, annotate, and prioritize asthma-associated SNPs using public GWAS datasets, statistical filtering, functional annotations, regulatory potential predictions, and visualization approaches.
+Genome-wide association studies (GWAS) have identified numerous single nucleotide polymorphisms (SNPs) associated with complex diseases such as asthma. However, not all SNPs are functionally relevant. This project implements a reproducible pipeline to filter, annotate, and prioritize asthma-associated SNPs.
+Asthma is a genetically and biologically complex disease. Identifying functional variants and druggable gene targets is key for translational impact. This pipeline implements a multi-omics, systems biology approach to prioritize GWAS signals using:
+
+- Multi-mapping strategies (positional, eQTL, chromatin)
+- Pathway and tissue-enrichment analysis
+- Integration with Open Target and Pharos database for clinical & drug candidacy
 
 The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization), and online bioinformatics resources (NHGRI GWAS Catalog, FUMA and Pharos) to identify biologically meaningful variants. The ultimate goal is to highlight candidate SNPs and genes with potential roles in asthma pathogenesis, providing a foundation for downstream functional studies and personalized medicine approaches.
 
@@ -25,8 +30,8 @@ The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization
  
 ## How to Run
 
-1. Clone this repository: `git clone <repo_url>`
-                          `cd asthma-gwas-snp-prioritization`
+1. Clone this repository: `git clone <https://github.com/Naila-Srivastava/GWAS-SNPs-Annotation-Prioritization>`
+                          `cd GWAS-SNPs-Annotation-Prioritization`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run analysis
 4. Generate final report
@@ -79,13 +84,11 @@ The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization
 ```plaintext
 Asthma pGWAS SNP Prioritization and Interpretation/  
 │
-├── README.md                                                  # You're reading this now  
-├── .gitignore  
+├── README.md                                                  # You're reading this now   
 ├── requirements.txt                                           # Python dependencies   
 │
 ├── GWAS_data_cleaning_&_preprocessing.ipynb                   # Jupyter notebook (Data cleaning & preprocessing)  
-├── R/                                                         # R scripts  
-├── Report                                                     # RMarkdown report   
+├── R/                                                         # R scripts     
 ├── Results/                                                   # Processed files and tables
 ├── Visuals/                                                   # Processed figures and plots  
 └── data/                                                      # Input datasets  
