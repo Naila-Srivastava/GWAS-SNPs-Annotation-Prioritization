@@ -9,9 +9,9 @@ The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization
 ## Tools & Technologies
 
 - **Languages:** Python (Jupyter Notebook) and R
-- **Databases & Resources:** NHGRI GWAS Catalog, FUMA GWAS and Pharos 
+- **Databases & Resources:** NHGRI GWAS Catalog, FUMA GWAS, Open Target and Pharos 
 - **Libraries:**
-  Python: (`Pandas`, `NumPy`, `Matplotlib` and `Seaborn`)
+  Python: (`Pandas`, `os` and `csv`)
   R: (`biomaRt`, `ggplot2`, `ggthemes` `readxl`, `tidyr`, `data.table`, `dplyr`, `stringr` and `igraph`)
 - **Reproducibility:** RMarkdown for reporting and GitHub for version control
 
@@ -69,19 +69,20 @@ The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization
 
 1. NHGRI GWAS Catalog: https://www.ebi.ac.uk/gwas/ [Han Y. et al. (GCST010042)]
 2. FUMA GWAS: https://fuma.ctglab.nl/
-3. Pharos: https://pharos.nih.gov/
+3. Open Target: https://www.opentargets.org/
+4. Pharos: https://pharos.nih.gov/
 
 ## Project Structure
 
 ```plaintext
 Asthma pGWAS SNP Prioritization and Interpretation/  
 │
-├── README.md                       # You're reading this now  
+├── README.md                                                  # You're reading this now  
 ├── .gitignore  
-├── requirements.txt                # Python dependencies   
+├── requirements.txt                                           # Python dependencies   
 │
-├── Python/                         # Jupyter notebook (Data cleaning & preprocessing)  
-├── R/                              # R scripts  
-├── report                          # RMarkdown report   
-├── results/                        # Processed results, figures and plots  
-└── data/                           # Input datasets  
+├── GWAS_data_cleaning_&_preprocessing.ipynb                   # Jupyter notebook (Data cleaning & preprocessing)  
+├── R/                                                         # R scripts  
+├── Report                                                     # RMarkdown report   
+├── Results/                                                   # Processed results, figures and plots  
+└── data/                                                      # Input datasets  
