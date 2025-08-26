@@ -84,5 +84,6 @@ Asthma pGWAS SNP Prioritization and Interpretation/
 ├── GWAS_data_cleaning_&_preprocessing.ipynb                   # Jupyter notebook (Data cleaning & preprocessing)  
 ├── R/                                                         # R scripts  
 ├── Report                                                     # RMarkdown report   
-├── Results/                                                   # Processed results, figures and plots  
+├── Results/                                                   # Processed files and tables
+├── Visuals/                                                   # Processed figures and plots  
 └── data/                                                      # Input datasets  
