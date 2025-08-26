@@ -1,0 +1,68 @@
+"id","UniProt","Symbol","Name","Target Development Level","IDG Family","Novelty"
+7871,"C9JQI7","TMEM232","Transmembrane protein 232","Tdark","Other",0.46079591
+1755,"O60427","FADS1","Acyl-CoA (8-3)-desaturase","Tchem","Enzyme",0.00160193
+130,"O75718","CRTAP","Cartilage-associated protein","Tbio","Other",0.02380647
+8338,"O76082","SLC22A5","Solute carrier family 22 member 5","Tbio","Transporter",0.00290828
+5552,"O95256","IL18RAP","Interleukin-18 receptor accessory protein","Tbio","Other",0.0141773
+19400,"O95760","IL33","Interleukin-33","Tbio","Other",0.00072064
+1828,"O95864","FADS2","Acyl-CoA 6-desaturase","Tbio","Enzyme",0.00180901
+5719,"P01589","IL2RA","Interleukin-2 receptor subunit alpha","Tclin","Other",0.0007607
+5616,"P05112","IL4","Interleukin-4","Tbio","Other",0.00005852
+19406,"P05231","IL6","Interleukin-6","Tclin","Other",0.00001819
+3883,"P08575","PTPRC","Receptor-type tyrosine-protein phosphatase C","Tchem","Enzyme",0.00012027
+17961,"P10914","IRF1","Interferon regulatory factor 1","Tbio","Transcription Factor",0.00099983
+3839,"P14859","POU2F1","POU domain, class 2, transcription factor 1","Tbio","Transcription Factor",0.00722164
+13541,"P16278","GLB1","Beta-galactosidase","Tchem","Enzyme",0.00241713
+5594,"P16871","IL7R","Interleukin-7 receptor subunit alpha","Tbio","Other",0.00107223
+6340,"P23771","GATA3","Trans-acting T-cell-specific transcription factor GATA-3","Tbio","Transcription Factor",0.00071141
+12716,"P24394","IL4R","Interleukin-4 receptor subunit alpha","Tclin","Other",0.00359183
+2996,"P24941","CDK2","Cyclin-dependent kinase 2","Tchem","Kinase",0.00032118
+696,"P27487","DPP4","Dipeptidyl peptidase 4","Tclin","Enzyme",0.00017047
+16184,"P30154","PPP2R1B","Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform","Tbio","Enzyme",0.03936638
+16170,"P30542","ADORA1","Adenosine receptor A1","Tclin","GPCR",0.00043697
+5475,"P35225","IL13","Interleukin-13","Tclin","Other",0.00021435
+10866,"P35232","PHB","Prohibitin","Tbio","Other",0.00178383
+4764,"P35398","RORA","Nuclear receptor ROR-alpha","Tchem","Nuclear Receptor",0.00405767
+6549,"P39748","FEN1","Flap endonuclease 1","Tchem","Enzyme",0.00082515
+3760,"P40967","PMEL","Melanocyte protein PMEL","Tclin","Other",0.00116525
+5161,"P42226","STAT6","Signal transducer and activator of transcription 6","Tchem","Transcription Factor",0.00096732
+3990,"P51687","SUOX","Sulfite oxidase, mitochondrial","Tbio","Enzyme",0.00971136
+5782,"P55318","FOXA3","Hepatocyte nuclear factor 3-gamma","Tbio","Transcription Factor",0.01873818
+10296,"P61020","RAB5B","Ras-related protein Rab-5B","Tbio","Enzyme",0.02653775
+9457,"P61165","TMEM258","Transmembrane protein 258","Tdark","Other",0.22121107
+9416,"P84022","SMAD3","Mothers against decapentaplegic homolog 3","Tchem","Transcription Factor",0.00048058
+11941,"P98088","MUC5AC","Mucin-5AC","Tbio","Other",0.00074159
+4250,"Q01196","RUNX1","Runt-related transcription factor 1","Tbio","Transcription Factor",0.0085181
+5613,"Q01638","IL1RL1","Interleukin-1 receptor-like 1","Tbio","Other",0.00541949
+12214,"Q07954","LRP1","Prolow-density lipoprotein receptor-related protein 1","Tbio","Other",0.00200788
+19324,"Q13478","IL18R1","Interleukin-18 receptor 1","Tbio","Other",0.01634385
+12051,"Q14392","LRRC32","Transforming growth factor beta activator LRRC32","Tbio","Other",0.02644086
+17081,"Q2KHT3","CLEC16A","Protein CLEC16A","Tbio","Other",0.0212098
+7100,"Q2LD37","KIAA1109","Transmembrane protein KIAA1109","Tbio","Other",0.02783732
+7129,"Q5HYC2","KIAA2026","Uncharacterized protein KIAA2026","Tdark","Epigenetic",0.92750263
+16202,"Q6PD74","AAGAB","Alpha- and gamma-adaptin-binding protein p34","Tbio","Other",0.0479209
+12117,"Q6UX15","LAYN","Layilin","Tbio","Other",0.07011192
+5481,"Q86VS3","IQCH","IQ domain-containing protein H","Tdark","Other",0.47951177
+19854,"Q8N138","ORMDL3","ORM1-like protein 3","Tbio","Other",0.00958976
+2079,"Q8N465","D2HGDH","D-2-hydroxyglutarate dehydrogenase, mitochondrial","Tbio","Enzyme",0.04618268
+5355,"Q8NBM4","UBAC2","Ubiquitin-associated domain-containing protein 2","Tbio","Other",0.13384376
+14502,"Q8NI36","WDR36","WD repeat-containing protein 36","Tbio","Other",0.02010676
+17965,"Q8TAX9","GSDMB","Gasdermin-B","Tbio","Other",0.01979674
+10601,"Q8TBN0","RAB3IL1","Guanine nucleotide exchange factor for Rab-3A","Tbio","Other",0.0167537
+6240,"Q8WUI4","HDAC7","Histone deacetylase 7","Tclin","Epigenetic",0.00600484
+18875,"Q8WV22","NSMCE1","Non-structural maintenance of chromosomes element 1 homolog","Tdark","Other",0.75370409
+10611,"Q92878","RAD50","DNA repair protein RAD50","Tbio","Other",0.02161298
+4261,"Q96AG3","SLC25A46","Solute carrier family 25 member 46","Tbio","Transporter",0.02720146
+15696,"Q96M93","ADAD1","Adenosine deaminase domain-containing protein 1","Tbio","Enzyme",0.05906067
+7887,"Q99805","TM9SF2","Transmembrane 9 superfamily member 2","Tbio","Other",0.18314106
+20323,"Q9BT67","NDFIP1","NEDD4 family-interacting protein 1","Tbio","Other",0.04496467
+13965,"Q9BYV9","BACH2","Transcription regulator protein BACH2","Tbio","Transcription Factor",0.00932069
+7812,"Q9H0K1","SIK2","Serine/threonine-protein kinase SIK2","Tchem","Kinase",0.01957886
+19263,"Q9HBE5","IL21R","Interleukin-21 receptor","Tbio","Other",0.01146822
+15670,"Q9NS82","SLC7A10","Asc-type amino acid transporter 1","Tbio","Transporter",0.08657571
+20200,"Q9UBC5","MYO1A","Unconventional myosin-Ia","Tbio","Other",0.00942771
+5682,"Q9UKT9","IKZF3","Zinc finger protein Aiolos","Tbio","Transcription Factor",0.01038728
+7303,"Q9Y2D9","ZNF652","Zinc finger protein 652","Tbio","Transcription Factor",0.09423783
+20389,"Q9Y2G1","MYRF","Myelin regulatory factor","Tbio","Transcription Factor",0.0075551
+11514,"Q9Y496","KIF3A","Kinesin-like protein KIF3A","Tbio","Other",0.00555124
+1829,"Q9Y5Q0","FADS3","Fatty acid desaturase 3","Tbio","Enzyme",0.02899077
