@@ -1,4 +1,4 @@
-# Asthma pGWAS SNP Prioritization and Interpretation
+# GWAS SNPs Annotation, Prioritization and Interpretation associated with Asthma
 
 ## Overview
 
