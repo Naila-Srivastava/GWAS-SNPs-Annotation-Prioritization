@@ -33,6 +33,8 @@ The workflow integrates Python (Jupyter Notebooks), R (biomaRt and visualization
 
 ## Methodology
 
+<img width="802" height="1093" alt="image" src="https://github.com/user-attachments/assets/a2297018-85af-4951-a4fb-e022ade0c5a1" />
+
 ## Features
 
 - Automated SNP filtering by p-value and trait relevance.
